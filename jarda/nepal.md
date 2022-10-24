@@ -36,4 +36,4 @@
 
 10. Namche Bazaar - Lukla [trasa](https://en.mapy.cz/turisticka?planovani-trasy&rc=wshBSvZIJBipLvYaMq&rs=osm&rs=osm&ri=13692849&ri=13702673&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3BwshXyvZG5-hkZcrN8-ckIfUhdGIeR93g-g1McbXQSckbg6KcnEX.c-AhIldVJ&x=86.7373576&y=27.8207724&z=14)
 
-   ![20221024214808.png](20221024214808.png)
+    ![20221024214808.png](20221024214808.png)
