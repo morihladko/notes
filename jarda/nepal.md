@@ -1,5 +1,5 @@
 1. Lukla - Phakding [trasa](https://en.mapy.cz/turisticka?planovani-trasy&rc=wsjQ2vY1Q43M1vYpsI&rs=coor&rs=coor&ri=&ri=&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3BwsjZKvYaxJf5khNgfEchk6fSkhvQfbphPBfeKhllWa5F0Kbh0-F35hbF6h5c&x=86.7133786&y=27.7316055&z=15)
-  ![[lukla-phakding.png]]
+  ![[/lukla-phakding.png]]
 2. Phakding - Namche Bazaar [trasa](https://en.mapy.cz/turisticka?planovani-trasy&rc=wshc3vYpsIfZ7vZIJB&rs=coor&rs=osm&ri=&ri=13692849&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3BwshZEvYsLVfiU5h1KXhs8h3ghepgnHhqM2h5DWFKjQoe.L56hfQKhsR&x=86.7209861&y=27.7151216&z=13)
    ![[Pasted image 20221024213555.png]]
 3. Nmache Bazaar - Tengboche [trasa](https://en.mapy.cz/turisticka?planovani-trasy&rc=wshBSvZIJBwsp0zvZSkT&rs=osm&rs=osm&ri=13692849&ri=13692850&mrp=%7B%22c%22%3A132%7D&xc=%5B%5D&rwp=1%3Bwsi7avZLMchFviqJg5GhDzh6WhW4hhqhVph-Ug-O&x=86.7170157&y=27.7738101&z=13)
